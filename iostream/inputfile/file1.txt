@@ -1,2 +1,0 @@
-Hello, this is file 1.
-Testing multi-threaded file reading.
